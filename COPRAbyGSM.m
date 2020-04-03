@@ -1,10 +1,14 @@
 %% COPRA without the GUI
-% Updated 04/03/2020 by G. Serrato Marks Background: if you're using MATLAB
-% 2014b or newer, the COPRA GUI doesn't work, so you need to use some code
-% to make it work instead. I adapted the following code from COPRA's
-% built-in example_script.m. 
+% Updated 04/03/2020 by G. Serrato Marks, gserrato@mit.edu
+
+%Background: if you're using MATLAB 2014b or newer, the COPRA GUI doesn't
+%work, so you need to use some code to make it work instead.
+%I adapted the following code from COPRA's built-in example_script.m. Note
+%that I am not affiliated with the original COPRA authors.
 
 %STEP O: Download COPRA from here: https://tocsy.pik-potsdam.de/copra.php
+%If you use this code, make sure you cite Breitenbach et al., 2012.
+
 %% Entering your data
 %STEP 1: put your dates in order by depth (smallest depth to largest depth)
 %in Excel or whatever program you use. 

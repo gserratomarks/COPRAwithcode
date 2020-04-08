@@ -1,8 +1,10 @@
 %% COPRA without the GUI
-% Updated 04/03/2020 by G. Serrato Marks, gserrato@mit.edu
+% Updated 04/07/2020 by G. Serrato Marks, gserrato@mit.edu
 
-%Background: if you're using MATLAB 2014b or newer, the COPRA GUI doesn't
-%work, so you need to use some code to make it work instead.
+%Background: if you're using MATLAB without the MATLAB GUI Layout
+%toolbox, you have issues running the GUI, or if you just prefer to use code
+%instead, you can work with COPRA directly with this m file.
+
 %I adapted the following code from COPRA's built-in example_script.m. Note
 %that I am not affiliated with the original COPRA authors.
 
